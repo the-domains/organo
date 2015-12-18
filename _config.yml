@@ -1,0 +1,28 @@
+name: Organo
+favicon: null
+layout_spectrum: 0.5526010126341134
+typography_spectrum: 0.77051035547629
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6433299344498664
+  lightness: 0.7072802404873073
+  saturation: 0.22258607321418822
+  rhythmicContrast: 0.4007543285842985
+purpose: []
