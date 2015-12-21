@@ -1,7 +1,7 @@
 name: Organo
 favicon: null
 layout_spectrum: 0.5526010126341134
-typography_spectrum: 0.77051035547629
+typography_spectrum: 0.729
 title: Taste The Gold
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.6433299344498664
+  brandStrength: 0.4375
   lightness: 0.7072802404873073
-  saturation: 0.22258607321418822
+  saturation: 0.8125
   rhythmicContrast: 0.4007543285842985
 purpose: []
