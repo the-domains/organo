@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Taste The Gold]]></title>
         <description><![CDATA[Taste The Gold]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/organo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 20:36:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Dec 2015 22:55:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/organo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ORGANO™ Taste the Gold.]]></title>
+            <description><![CDATA[<article><h1>ORGANO™ Taste the Gold.</h1><p>Het Organisch Verschil Het begon toen de heer Bernardo Shua een visie had om deze wereld te veranderen. Hij is de directeur van Organo™ dewelke vandaag alle 100% gecertificeerde Ganoderma lucidium teelt in eigen handen heeft. Door zijn ambitie wist hij de juiste mensen samen te brengen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7267b3284b424e0bb2b22fc27f2780fa2f10d174.png"></article>]]></description>
+            <link>http://dennisschoofs.com/index.html</link>
+            <guid isPermaLink="false">0b3e7370-6c02-4fe9-9bb1-c3564b1a4faf</guid>
+            <pubDate>Wed, 30 Dec 2015 22:54:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Drink Organo, verander je leven.]]></title>
-            <description><![CDATA[<article><h1>Drink Organo, verander je leven.</h1><p>Het is nu de beste moment om je huidige merk van drank te vervangen door Organo.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3152b5127789fb56fc04f208b418ef8e82af46d4.jpg"></article>]]></description>
-            <link>undefineddrink-organotm-verander-je-leven/index.html</link>
+            <description><![CDATA[<article><h1>Drink Organo, verander je leven.</h1><p>Het is nu de beste moment om je huidige merk van drank te vervangen door Organo.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8105318e19c8b5e92c5d5f3c2e4187b4c8196d2c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/organo/drink-organotm-verander-je-leven/index.html</link>
             <guid isPermaLink="false">481a2a40-bb5e-4a59-a8ed-d8b9f41dac7a</guid>
             <pubDate>Mon, 21 Dec 2015 20:35:48 GMT</pubDate>
         </item>
